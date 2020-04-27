@@ -6,7 +6,7 @@
 
 >  [DataGrip](https://www.jetbrains.com/datagrip/)  is a multi-engine database environment supporting Oracle, PostgreSQL, MySQL, Microsoft SQL Server, DB2, Sybase, SQLite, HyperSQL, Apache Derby and H2. Targeting the specific needs of professional SQL developers, DataGrip makes working with databases an enjoyable and productive experience.
 
-### AppCode Learning Resources
+### DataGrip Learning Resources
 1. [DataGrip Introduction](https://www.youtube.com/watch?v=Xb9K8IAdZNg&list=PLQ176FUIyIUaY35luxpLwwivq0Z4EPbqN&index=4)
 2. [Navigation in DataGrip. How to search for data, files, code, and settings.](https://www.youtube.com/watch?v=t0R-O8FPoEA&list=PLQ176FUIyIUaY35luxpLwwivq0Z4EPbqN&index=2)
 3. [Using BigQuery in DataGrip](https://www.youtube.com/watch?v=r9l2c_aQPoQ&list=PLQ176FUIyIUaY35luxpLwwivq0Z4EPbqN&index=3)
